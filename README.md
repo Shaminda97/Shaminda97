@@ -25,7 +25,7 @@
 
   
 
-<h3🤝🏻 Connect with Me</h3>
+<h3>🤝🏻 Connect with Me</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shaminda-pethiyagoda-84244015a/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
