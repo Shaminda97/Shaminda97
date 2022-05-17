@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; I'm a software engineer who exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; undergraduate at Sri Lanka Institute of Information Technology (S.L.I.I.T).
-- 🌱 &nbsp; Currently Learning DevOps Tools and Technologies.Enthusiast
+- 🌱 &nbsp; Currently Learning DevOps Tools and Technologies.
 - Open for project collaboration and internship opportunities. 
 - Tech Enthusiast. 
 
